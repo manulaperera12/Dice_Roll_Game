@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dice Roll App</string>
+    <string name="about">About</string>
+    <string name="student_id">Student ID:</string>
+    <string name="_20210896">20210896</string>
+    <string name="student_name">Student Name:</string>
+    <string name="manula_perera">Manula Perera</string>
+    <string name="description">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="score">Score</string>
+    <string name="throwBtnText">Throw</string>
+    <string name="reroll_2_times">Reroll 2 Times</string>
+    <string name="scoreHint">Score</string>
+    <string name="human">Human</string>
+    <string name="h">H:</string>
+    <string name="c">C:</string>
+    <string name="scoreHintComputer">Score</string>
+    <string name="computer">Computer</string>
+    <string name="set">Set</string>
+    <string name="target_n101">Target\n101</string>
+    <string name="welcome_to_nthe_dice_roll_app">Welcome To \nThe Dice Roll App</string>
+    <string name="new_game">New Game</string>
+    <string name="aboutBtnText">About</string>
+</resources>
